@@ -1,2 +1,1 @@
-# BWD-Project
-movie website 
+student record manager
